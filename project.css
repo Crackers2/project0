@@ -1,0 +1,16 @@
+.note {
+  font-size: 30px;
+  font-weight: bold; }
+
+.note {
+  color: blue; }
+
+div {
+  font-size: 30px; }
+  div p {
+    text-align: left;
+    font-size: 18px; }
+  div h3 {
+    text-align: center; }
+
+/*# sourceMappingURL=project.css.map */
